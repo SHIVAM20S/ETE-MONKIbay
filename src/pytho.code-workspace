@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "D:/pytho"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp",
+			"ostream": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
